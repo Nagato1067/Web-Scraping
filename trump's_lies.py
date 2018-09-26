@@ -31,7 +31,7 @@ Trump['URL'] = url
 #data = []
 #for trump in first_stage:
 #    date = trump.find('strong').text[:-1]+ ', 2017'
-#   lie = trump.contents[1][1:-2]
+#    lie = trump.contents[1][1:-2]
 #    explanation = trump.find('span', class_ = 'short-truth').text # OR explanation = trump.find('a').text[1:-1]
 #    url = trump.find('a').get('href') # OR url = trump.find('a')['href']
 #    data.append((date, lie, explanation, url))
