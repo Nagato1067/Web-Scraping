@@ -25,6 +25,9 @@ Trump['Lies'] = lies
 Trump['Explanation'] = explanation
 Trump['URL'] = url
 
+#Trump.to_csv('Trump_lies.csv') #This is to convert the dataframe into a csv file. To use it just uncomment the line.
+
+
 # This can be done in another way, The way DataSchool completed the task.
 
 
@@ -39,5 +42,3 @@ Trump['URL'] = url
 #  tabular_data = pd.DataFrame(data, columns = ['Date', 'Lie', 'Explanation', 'URL'])
 
 
-
-#Trump.to_csv("Trump's_Opinion.csv") #This is to convert the dataframe into a csv file. To use it just uncomment the line.
