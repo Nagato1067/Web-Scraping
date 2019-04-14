@@ -25,7 +25,7 @@ Trump['Lies'] = lies
 Trump['Explanation'] = explanation
 Trump['URL'] = url
 
-#Trump.to_csv('Trump_lies.csv') #This is to convert the dataframe into a csv file. To use it just uncomment the line.
+#Trump.to_csv('Trump_lies.csv') 
 
 
 # This can be done in another way, The way DataSchool completed the task.
